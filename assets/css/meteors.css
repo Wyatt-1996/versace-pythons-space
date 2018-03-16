@@ -1,0 +1,11 @@
+/* zip input */
+#label {
+    font-size: 21px;
+    color: aliceblue;
+}
+
+#zip-input {
+    font-size: 21px;
+    border-radius: 6px;
+    width: 200px;
+}
